@@ -2,8 +2,8 @@
   "name": "cristianjdelrio",
   "version": "0.0.2",
   "description": "Just A Personal Card for Cristian Del Rio (CristianJDelRio)",
-  "main": "index.js",
-  "bin": "./cli.js",
+  "main": "card.js",
+  "bin": "./card.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,9 +15,16 @@
     "npx card",
     "business card"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:CristianJDelRio/npx-card.git"
+  },
   "author": "CristianJDelRio",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
     "prettyjson": "^1.2.1"
   }
 }
