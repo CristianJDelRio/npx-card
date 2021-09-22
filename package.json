@@ -1,0 +1,23 @@
+{
+  "name": "cristianjdelrio-npx-card",
+  "version": "0.0.2",
+  "description": "Just A Personal Card for Cristian Del Rio (CristianJDelRio)",
+  "main": "index.js",
+  "bin": "./cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
+  "author": "CristianJDelRio",
+  "license": "ISC",
+  "dependencies": {
+    "prettyjson": "^1.2.1"
+  }
+}
