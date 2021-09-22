@@ -1,6 +1,6 @@
 {
   "name": "cristianjdelrio",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Just A Personal Card for Cristian Del Rio (CristianJDelRio)",
   "main": "card.js",
   "bin": "./card.js",
