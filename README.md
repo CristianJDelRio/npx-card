@@ -15,6 +15,6 @@ The final output might look something like this:
 
 
 
-#### Not:
+#### Note:
 
 This card it's inspired by the one that @anmol098 created. Take a look to his [repo](https://github.com/anmol098/npx_card)
